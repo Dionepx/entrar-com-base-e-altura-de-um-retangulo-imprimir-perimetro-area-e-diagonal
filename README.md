@@ -1,0 +1,1 @@
+# entrar-com-base-e-altura-de-um-retangulo-imprimir-perimetro-area-e-diagonal
